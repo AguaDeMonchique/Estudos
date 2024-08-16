@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "repository/Frances/Aprender Frances.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8adb941cea5c2498",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "925205c53069f3d5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "repository/Frances/Aprender Frances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "repository/Frances/Aprender Frances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "repository/Frances/Aprender Frances.md"
               }
             }
           },
@@ -170,6 +156,9 @@
   },
   "active": "d7ead1a07cd52ef2",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "create a link.md",
+    "repository/Frances/Aprender Frances.md",
+    "repository/Frances"
   ]
 }
