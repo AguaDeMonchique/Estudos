@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repository/Frances/Francês - Resumo do Livro.md",
+                "file": "Francês - Resumo do Livro.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repository/Frances/Francês - Resumo do Livro.md",
+                "file": "Francês - Resumo do Livro.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repository/Frances/Francês - Resumo do Livro.md",
+                "file": "Francês - Resumo do Livro.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repository/Frances/Francês - Resumo do Livro.md",
+                "file": "Francês - Resumo do Livro.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,146 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "link.md",
+                "file": "Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94d1b636122736fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eefaef95ce01d3eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "606c306c0be502f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05a18c7d2f4eb9b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24899e58688a352e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1a7dba6ba3cd190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c106d3c247f6f027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bda01e307b528c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9daff26c667c6749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "466e0eaaa4ad5111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70a52f98216c1c01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês - Resumo do Livro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -134,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "link.md",
+                "file": "Francês - Resumo do Livro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "link.md",
+                "file": "Francês - Resumo do Livro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "link.md"
+                "file": "Francês - Resumo do Livro.md"
               }
             }
           },
@@ -203,14 +335,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6835796a466af0c4",
+  "active": "70a52f98216c1c01",
   "lastOpenFiles": [
-    "repository/Frances/Francês - Resumo do Livro.md",
+    "Francês/Fonética e Pronúncia.md",
+    "Francês - Resumo do Livro.md",
+    "Francês/Alfabeto.md",
+    "Frances/Alfabeto.md",
+    "Frances",
+    "Francês/Fonética dsdasd.md",
+    "Francês/Fonética.md",
+    "Francês/Estrutura.md",
+    "Francês/Estrutura Frase.md",
     "link.md",
-    "Alfabeto.md",
-    "create a link.md",
-    "Untitled.md",
+    "Francês",
+    "Fonética e Pronúncia.md",
     "Welcome.md",
+    "create a link.md",
+    "Alfabeto.md",
+    "repository/Frances/link.md",
+    "repository/Frances/Alfabeto.md",
+    "Untitled.md",
     "repository/Frances"
   ]
 }
