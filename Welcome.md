@@ -6,12 +6,14 @@ When you're ready, delete this note and make the vault your own.
 
 texto com fundo <span style="background-color: grey;">Texto com fundo amarelo</span>
 **negtrito**
-<span style="color:rgb(0, 176, 240)">colorido</span> 
+<span style="color:rgb(135, 206, 235)"><strong>pâ<u>tè</u></strong></span>
 
 | Letra | Pronúncia | 
 | ----- | ------------|
 | **a**       | á               |
-
+<span style="background-color: grey;">
+  <strong>é</strong>, <strong>et</strong>, <strong>er</strong>, <strong>ez</strong>
+</span> negrito com fundo
 
 
 
