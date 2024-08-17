@@ -4,203 +4,155 @@
     "type": "split",
     "children": [
       {
-        "id": "c7cfe7a0a57d21e7",
+        "id": "719b7086a00c8ad8",
         "type": "tabs",
         "children": [
           {
-            "id": "d7ead1a07cd52ef2",
+            "id": "5aa09d18c813629e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "da309ba04ef032bc",
+            "id": "8aecc52b446796f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "de1c2be2797db64c",
+            "id": "d03ded9b835afc9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "53ff02c9e1e75cc7",
+            "id": "ea3ed5acdfaa25c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6835796a466af0c4",
+            "id": "04b8e8eb57614501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "94d1b636122736fe",
+            "id": "cf25abc381a6d445",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eefaef95ce01d3eb",
+            "id": "dc51bfee802cbd88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "606c306c0be502f0",
+            "id": "82d4eb76540983c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "05a18c7d2f4eb9b2",
+            "id": "fca7b74d8dfb1aab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "24899e58688a352e",
+            "id": "dbec3948ab5ee9e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e1a7dba6ba3cd190",
+            "id": "c826776b34d9e552",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c106d3c247f6f027",
+            "id": "8e9b7cf288410e68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bda01e307b528c5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Francês - Resumo do Livro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9daff26c667c6749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Francês - Resumo do Livro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "466e0eaaa4ad5111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Francês - Resumo do Livro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70a52f98216c1c01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/1-Alfabeto.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -266,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/1-Alfabeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Francês - Resumo do Livro.md",
+                "file": "Francês/1-Alfabeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Francês - Resumo do Livro.md"
+                "file": "Francês/1-Alfabeto.md"
               }
             }
           },
@@ -335,11 +287,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70a52f98216c1c01",
+  "active": "8e9b7cf288410e68",
   "lastOpenFiles": [
-    "Francês/Fonética e Pronúncia.md",
-    "Francês - Resumo do Livro.md",
-    "Francês/Alfabeto.md",
+    "Francês/0-Índice de Francês.md",
+    "Francês/8.4-Alguns Irregulares.md",
+    "Francês/8.3-Verbos do Terceiro Grupo.md",
+    "Francês/8.2-Verbos do Segundo Grupo.md",
+    "Francês/8.1-Verbos do Primeiro Grupo.md",
+    "Francês/8-Verbos.md",
+    "Francês/7-Pronomes Demonstrativos.md",
+    "Francês/6-Pronomes Pessoais.md",
+    "Francês/5-Nomes e Adjetivos.md",
+    "Francês/4-Artigos.md",
+    "Francês/3-Estrutura da Frase.md",
+    "Francês/2-Fonética e Pronúncia.md",
+    "Francês/1-Alfabeto.md",
     "Frances/Alfabeto.md",
     "Frances",
     "Francês/Fonética dsdasd.md",
