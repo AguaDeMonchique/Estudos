@@ -1,1 +1,4 @@
 # Alfabeto
+
+| Letra | Pronúncia ^|
+|-------|------------|

@@ -150,9 +150,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a23067341c6f5f45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês/0-Índice de Francês.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0efadd2c3a444574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francês/1-Alfabeto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -218,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Francês/0-Índice de Francês.md",
+                "file": "Francês/1-Alfabeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Francês/0-Índice de Francês.md",
+                "file": "Francês/1-Alfabeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Francês/0-Índice de Francês.md"
+                "file": "Francês/1-Alfabeto.md"
               }
             }
           },
@@ -287,10 +311,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e9b7cf288410e68",
+  "active": "0efadd2c3a444574",
   "lastOpenFiles": [
-    "Francês/1-Alfabeto.md",
     "Francês/0-Índice de Francês.md",
+    "Alfabeto.md",
+    "Francês/1-Alfabeto.md",
+    "Francês/2-Fonética e Pronúncia.md",
     "Francês/8.4-Alguns Irregulares.md",
     "Francês/8.3-Verbos do Terceiro Grupo.md",
     "Francês/8.2-Verbos do Segundo Grupo.md",
@@ -301,7 +327,6 @@
     "Francês/5-Nomes e Adjetivos.md",
     "Francês/4-Artigos.md",
     "Francês/3-Estrutura da Frase.md",
-    "Francês/2-Fonética e Pronúncia.md",
     "Frances/Alfabeto.md",
     "Frances",
     "Francês/Fonética dsdasd.md",
@@ -313,7 +338,6 @@
     "Fonética e Pronúncia.md",
     "Welcome.md",
     "create a link.md",
-    "Alfabeto.md",
     "repository/Frances/link.md",
     "repository/Frances/Alfabeto.md",
     "Untitled.md",
