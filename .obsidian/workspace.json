@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês/01-Alfabeto.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Francês/01-Alfabeto.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Francês/01-Alfabeto.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Francês/01-Alfabeto.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -313,8 +313,10 @@
   },
   "active": "0efadd2c3a444574",
   "lastOpenFiles": [
-    "Francês/▸Índice.md",
     "Francês/01-Alfabeto.md",
+    "Welcome.md",
+    "Francês/02-Fonética e Pronúncia.md",
+    "Francês/▸Índice.md",
     "Francês/08-Verbos.md",
     "Francês/8.1-Verbos do Primeiro Grupo.md",
     "Francês/8.2-Verbos do Segundo Grupo.md",
@@ -324,7 +326,6 @@
     "Francês/05-Nomes e Adjetivos.md",
     "Francês/04-Artigos.md",
     "Francês/03-Estrutura da Frase.md",
-    "Francês/02-Fonética e Pronúncia.md",
     "Alfabeto.md",
     "Francês/8.4-Alguns Irregulares.md",
     "Frances/Alfabeto.md",
@@ -336,7 +337,6 @@
     "link.md",
     "Francês",
     "Fonética e Pronúncia.md",
-    "Welcome.md",
     "create a link.md",
     "repository/Frances/link.md",
     "repository/Frances/Alfabeto.md",
