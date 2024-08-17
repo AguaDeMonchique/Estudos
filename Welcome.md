@@ -7,8 +7,15 @@ When you're ready, delete this note and make the vault your own.
 texto com fundo <span style="background-color: grey;">Texto com fundo amarelo</span>
 **negtrito**
 <span style="color:rgb(0, 176, 240)">colorido</span> 
-| Letra | Pronúncia |
+
+| Letra | Pronúncia | 
 | ----- | ------------|
-| **a** | á                     |
-| **b**      | bê                  |
-| **c** | cê                   |
+| **a**       | á               |
+
+
+
+
+
+
+
+
