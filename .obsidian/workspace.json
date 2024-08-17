@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repository/Frances/Aprender Frances.md",
+                "file": "repository/Frances/Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da309ba04ef032bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repository/Frances/Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de1c2be2797db64c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repository/Frances/Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53ff02c9e1e75cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repository/Frances/Francês - Resumo do Livro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6835796a466af0c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "link.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repository/Frances/Aprender Frances.md",
+                "file": "link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repository/Frances/Aprender Frances.md",
+                "file": "link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "repository/Frances/Aprender Frances.md"
+                "file": "link.md"
               }
             }
           },
@@ -154,11 +203,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7ead1a07cd52ef2",
+  "active": "6835796a466af0c4",
   "lastOpenFiles": [
-    "Welcome.md",
+    "repository/Frances/Francês - Resumo do Livro.md",
+    "link.md",
+    "Alfabeto.md",
     "create a link.md",
-    "repository/Frances/Aprender Frances.md",
+    "Untitled.md",
+    "Welcome.md",
     "repository/Frances"
   ]
 }
