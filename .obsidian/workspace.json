@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês/1-Alfabeto.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Francês/1-Alfabeto.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Francês/1-Alfabeto.md",
+                "file": "Francês/0-Índice de Francês.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Francês/1-Alfabeto.md"
+                "file": "Francês/0-Índice de Francês.md"
               }
             }
           },
@@ -289,6 +289,7 @@
   },
   "active": "8e9b7cf288410e68",
   "lastOpenFiles": [
+    "Francês/1-Alfabeto.md",
     "Francês/0-Índice de Francês.md",
     "Francês/8.4-Alguns Irregulares.md",
     "Francês/8.3-Verbos do Terceiro Grupo.md",
@@ -301,7 +302,6 @@
     "Francês/4-Artigos.md",
     "Francês/3-Estrutura da Frase.md",
     "Francês/2-Fonética e Pronúncia.md",
-    "Francês/1-Alfabeto.md",
     "Frances/Alfabeto.md",
     "Frances",
     "Francês/Fonética dsdasd.md",
