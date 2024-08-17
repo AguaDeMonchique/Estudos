@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês/08-Verbos.md",
+                "file": "Francês/01-Alfabeto.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Francês/08-Verbos.md",
+                "file": "Francês/01-Alfabeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Francês/08-Verbos.md",
+                "file": "Francês/01-Alfabeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Francês/08-Verbos.md"
+                "file": "Francês/01-Alfabeto.md"
               }
             }
           },
@@ -313,10 +313,10 @@
   },
   "active": "0efadd2c3a444574",
   "lastOpenFiles": [
+    "Francês/08-Verbos.md",
     "Francês/8.1-Verbos do Primeiro Grupo.md",
     "Francês/8.2-Verbos do Segundo Grupo.md",
     "Francês/8.3-Verbos do Terceiro Grupo.md",
-    "Francês/08-Verbos.md",
     "Francês/07-Pronomes Demonstrativos.md",
     "Francês/06-Pronomes Pessoais.md",
     "Francês/05-Nomes e Adjetivos.md",
