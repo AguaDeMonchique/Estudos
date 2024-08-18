@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francês/02-Fonética e Pronúncia.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Francês/02-Fonética e Pronúncia.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Francês/02-Fonética e Pronúncia.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Francês/02-Fonética e Pronúncia.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   "active": "0efadd2c3a444574",
   "lastOpenFiles": [
     "Francês/01-Alfabeto.md",
+    "Comptia A+",
     "Francês/▸Índice.md",
     "Francês/02-Fonética e Pronúncia.md",
     "Welcome.md",
@@ -183,7 +184,6 @@
     "create a link.md",
     "repository/Frances/link.md",
     "repository/Frances/Alfabeto.md",
-    "Untitled.md",
     "repository/Frances"
   ]
 }
