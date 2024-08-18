@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Comptia A+/Core 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Comptia A+/Core 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Comptia A+/Core 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Comptia A+/Core 1.md"
               }
             }
           },
@@ -156,11 +156,13 @@
   },
   "active": "0efadd2c3a444574",
   "lastOpenFiles": [
+    "Comptia A+/Core 2.md",
+    "Comptia A+/Core 1.md",
+    "Welcome.md",
     "Francês/01-Alfabeto.md",
     "Comptia A+",
     "Francês/▸Índice.md",
     "Francês/02-Fonética e Pronúncia.md",
-    "Welcome.md",
     "Francês/03-Estrutura da Frase.md",
     "Francês/04-Artigos.md",
     "Francês/08-Verbos.md",
@@ -183,7 +185,6 @@
     "Fonética e Pronúncia.md",
     "create a link.md",
     "repository/Frances/link.md",
-    "repository/Frances/Alfabeto.md",
     "repository/Frances"
   ]
 }
