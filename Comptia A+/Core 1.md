@@ -50,7 +50,7 @@ Hardware is going to be used for Processing, the <span style="color:rgb(135, 206
 #### Storage
 The act of saving data for future use or retrieval 
 
-**2 types of storage**
+##### 2 types of storage
 **Temporary**
 <span style="font-style:italic; font-style:italic; color:rgb(135, 206, 235)">Cache</span> is a very small and very fast type of storage called, which is actually part of our <span style="color:rgb(0, 176, 240)">CPU</span>.
 <span style="color:rgb(135, 206, 235)">Ram</span> <span style="color:rgb(135, 206, 235)"></span>another temporary storage area that computers have.
@@ -63,5 +63,20 @@ Ex.: <span style="color:rgb(135, 206, 235)"><strong>Monitors</strong>,<strong> D
 ### Software
 Provides the instructions for the hardware
 
-**3 types of storage**
+##### 3 types of storage
+
+**OS software**
+Provides a method for saving, retrieving, changing, printing, and transmitting information within the computer.
+Ex.: <span style="color:rgb(135, 206, 235)"><strong>OS X</strong>,<strong> Linux</strong>, <strong>Android</strong> <strong> iOS</strong>, <strong> Windows</strong>, <strong> Chrome OS</strong></span>
+
+**Application Software**
+Used to create, store, modify, and view information or data
+Ex.: <span style="color:rgb(135, 206, 235)"><strong>Microsoft Word</strong>,<strong> Adobe Premiere</strong>, <strong>Firefox</strong> </span>
+
+**Drivers**
+Used to translate commands from operating system to a piece of hardware
+Ex.: <span style="color:rgb(135, 206, 235)"><strong>if I go and install a new video card in my workstation, Windows is probably going to be able to detect it and use a generic driver to at least understand how to display the images on the screen for me using that graphics card.</strong></span>
+
+
 ### Firmware
+Is a specialized type of software that's contained on the chip that's going to be attached to the <span style="color:rgb(135, 206, 235)">motherboard</span>, <span style="color:rgb(135, 206, 235)">optical drive</span>, <span style="color:rgb(135, 206, 235)">video card</span>, <span style="color:rgb(135, 206, 235)">mass storage host adapter</span>, <span style="color:rgb(135, 206, 235)">network card</span>, <span style="color:rgb(135, 206, 235)">modem</span>, or <span style="color:rgb(135, 206, 235)">printer</span>.
