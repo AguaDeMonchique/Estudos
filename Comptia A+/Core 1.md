@@ -24,6 +24,7 @@ Troubleshoot real world devices and network issues very quickly and affectively 
 # 30 days Study Plan
 ![[Pasted image 20240818175608.png]]
 
+# Personal Computers
 ### Anything is considered a computer if has this 4 basic functions:
 <span style="color:rgb(0, 176, 240)">Input, Processing, Storage and Output</span>.
 
@@ -80,3 +81,7 @@ Ex.: <span style="color:rgb(135, 206, 235)"><strong>if I go and install a new vi
 
 ### Firmware
 Is a specialized type of software that's contained on the chip that's going to be attached to the <span style="color:rgb(135, 206, 235)">motherboard</span>, <span style="color:rgb(135, 206, 235)">optical drive</span>, <span style="color:rgb(135, 206, 235)">video card</span>, <span style="color:rgb(135, 206, 235)">mass storage host adapter</span>, <span style="color:rgb(135, 206, 235)">network card</span>, <span style="color:rgb(135, 206, 235)">modem</span>, or <span style="color:rgb(135, 206, 235)">printer</span>.
+
+Nowadays most firmware is upgradeable and this is done through a process called flashing. Because of this, we call most modern firmware flashable.
+
+# Safety Procedures
