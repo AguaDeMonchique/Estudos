@@ -35,7 +35,7 @@ Troubleshoot real world devices and network issues very quickly and affectively 
 <span style="color:rgb(0, 176, 240)">Tablets</span> = Portable computer that consists of a touchscreen and computing hardware
 <span style="color:rgb(0, 176, 240)">Smartphones</span> = Smaller version of <span style="color:rgb(0, 176, 240)">tablets</span> 
 <span style="color:rgb(0, 176, 240)">Smart devices</span> = Device that has the ability to compute
-<span style="color:rgb(0, 176, 240)">Internet of Things(IoT) Devices</span> = Devices that connect to a network
+Internet of Things(IoT) Devices = Devices that connect to a network
 
 ## Common components computers will rely on
 
