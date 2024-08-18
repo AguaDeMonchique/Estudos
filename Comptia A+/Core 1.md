@@ -26,16 +26,16 @@ Troubleshoot real world devices and network issues very quickly and affectively 
 
 # Personal Computers
 ### Anything is considered a computer if has this 4 basic functions:
-<span style="color:rgb(0, 176, 240)">Input, Processing, Storage and Output</span>.
+<span style="color:rgb(135, 206, 235)">Input, Processing, Storage and Output.</span>
 
 ### Types of devices
-<span style="color:rgb(0, 176, 240)">Workstations</span> = Desktop computer
-<span style="color:rgb(0, 176, 240)">Servers</span> = Used to host a file and print sharing server
-<span style="color:rgb(0, 176, 240)">Laptops</span> = Mobile version of a <span style="color:rgb(0, 176, 240)">workstation</span> 
-<span style="color:rgb(0, 176, 240)">Tablets</span> = Portable computer that consists of a touchscreen and computing hardware
-<span style="color:rgb(0, 176, 240)">Smartphones</span> = Smaller version of <span style="color:rgb(0, 176, 240)">tablets</span> 
-<span style="color:rgb(0, 176, 240)">Smart devices</span> = Device that has the ability to compute
-Internet of Things(IoT) Devices = Devices that connect to a network
+<span style="color:rgb(135, 206, 235)">Workstations</span> = Desktop computer
+<span style="color:rgb(135, 206, 235)">Servers</span> = Used to host a file and print sharing server
+<span style="color:rgb(135, 206, 235)">Laptops</span> = Mobile version of a <span style="color:rgb(135, 206, 235)">workstation</span> 
+<span style="color:rgb(135, 206, 235)">Tablets</span> = Portable computer that consists of a touchscreen and computing hardware
+<span style="color:rgb(135, 206, 235)">Smartphones</span> = Smaller version of <span style="color:rgb(135, 206, 235)">tablets</span> 
+<span style="color:rgb(135, 206, 235)">Smart devices</span> = Device that has the ability to compute
+<span style="color:rgb(135, 206, 235)">Internet of Things(IoT) Devices</span> = Devices that connect to a network
 
 ## Common components computers will rely on
 

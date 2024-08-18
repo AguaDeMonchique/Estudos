@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comptia A+/Core 1.md",
+                "file": "Francês/02-Fonética e Pronúncia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comptia A+/Core 1.md",
+                "file": "Francês/02-Fonética e Pronúncia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comptia A+/Core 1.md",
+                "file": "Francês/02-Fonética e Pronúncia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comptia A+/Core 1.md"
+                "file": "Francês/02-Fonética e Pronúncia.md"
               }
             }
           },
@@ -154,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0efadd2c3a444574",
+  "active": "ece36331e4537e2f",
   "lastOpenFiles": [
+    "Comptia A+/Core 1.md",
     "Francês/02-Fonética e Pronúncia.md",
     "Francês/01-Alfabeto.md",
-    "Comptia A+/Core 1.md",
     "Welcome.md",
     "Pasted image 20240818175608.png",
     "Pasted image 20240818174735.png",
