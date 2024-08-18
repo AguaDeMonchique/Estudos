@@ -43,7 +43,7 @@ Troubleshoot real world devices and network issues very quickly and affectively 
 Parts of a computer that  can be <span style="background-color: grey;">picked up, moved around, opened and closed </span>
 
 #### Input devices
-Ex.: <span style="color:rgb(135, 206, 235)"><strong>Keyboards</strong>,<strong> Mouses</strong>, <strong>RAM</strong> <strong> Microphone</strong>, <strong> Webcam</strong>, <strong> CPU</strong>, <strong> GPU</strong></span>
+Ex.: <span style="color:rgb(135, 206, 235)"><strong>Keyboards</strong>,<strong> Mouses</strong>, <strong>RAM</strong>, <strong> Microphone</strong>, <strong> Webcam</strong>, <strong> CPU</strong>, <strong> GPU</strong></span>
 
 #### Processing
 Hardware is going to be used for Processing, the <span style="color:rgb(135, 206, 235)">CPU</span> (central processing unit) or <span style="color:rgb(135, 206, 235)">GPU</span> (graphic processor unit). These are the brain of the computer and are used to control everything the computer is doing. They convert some kind of input into something useful and usable.
@@ -64,7 +64,7 @@ Ex.: <span style="color:rgb(135, 206, 235)"><strong>Monitors</strong>,<strong> D
 ### Software
 Provides the instructions for the hardware
 
-##### 3 types of storage
+##### 3 types of software
 
 **OS software**
 Provides a method for saving, retrieving, changing, printing, and transmitting information within the computer.
