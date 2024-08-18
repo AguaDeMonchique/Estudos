@@ -24,9 +24,24 @@ Troubleshoot real world devices and network issues very quickly and affectively 
 # 30 days Study Plan
 ![[Pasted image 20240818175608.png]]
 
-For anything be considered a computer it needs to have 4 basic functions: <span style="color:rgb(0, 176, 240)">Input, Processing, Storage and Output</span>.
+### Anything is considered a computer if has this 4 basic functions:
+<span style="color:rgb(0, 176, 240)">Input, Processing, Storage and Output</span>.
 
-<span style="color:rgb(0, 176, 240)">Workstation</span> = Desktop computer
-<span style="color:rgb(0, 176, 240)">Server</span> = Used to host a file and print sharing server
-<span style="color:rgb(0, 176, 240)">Laptop</span> = Mobile version of a <span style="color:rgb(0, 176, 240)">workstation</span> 
-<span style="color:rgb(0, 176, 240)">Tablet</span> = Portable computer that consists of a touchscreen and computing hardware
+### Types of devices
+<span style="color:rgb(0, 176, 240)">Workstations</span> = Desktop computer
+<span style="color:rgb(0, 176, 240)">Servers</span> = Used to host a file and print sharing server
+<span style="color:rgb(0, 176, 240)">Laptops</span> = Mobile version of a <span style="color:rgb(0, 176, 240)">workstation</span> 
+<span style="color:rgb(0, 176, 240)">Tablets</span> = Portable computer that consists of a touchscreen and computing hardware
+<span style="color:rgb(0, 176, 240)">Smartphones</span> = Smaller version of <span style="color:rgb(0, 176, 240)">tablets</span> 
+<span style="color:rgb(0, 176, 240)">Smart devices</span> = Device that has the ability to compute
+<span style="color:rgb(0, 176, 240)">Internet of Things(IoT) Devices</span> = Devices that connect to a network
+
+## Common components computers will rely on
+
+### Hardware
+Parts of a computer that  can be <span style="background-color: grey;">picked up, moved around, opened and closed </span>
+Ex.: <span style="color:rgb(135, 206, 235)"><strong>keyboards</strong>,<strong> mouses</strong>, <strong>parler</strong>, <strong> avez<</strong></span>
+
+### Software
+
+### Firmware
