@@ -23,3 +23,10 @@ Troubleshoot real world devices and network issues very quickly and affectively 
 
 # 30 days Study Plan
 ![[Pasted image 20240818175608.png]]
+
+For anything be considered a computer it needs to have 4 basic functions: <span style="color:rgb(0, 176, 240)">Input, Processing, Storage and Output</span>.
+
+<span style="color:rgb(0, 176, 240)">Workstation</span> = Desktop computer
+<span style="color:rgb(0, 176, 240)">Server</span> = Used to host a file and print sharing server
+<span style="color:rgb(0, 176, 240)">Laptop</span> = Mobile version of a <span style="color:rgb(0, 176, 240)">workstation</span> 
+<span style="color:rgb(0, 176, 240)">Tablet</span> = Portable computer that consists of a touchscreen and computing hardware
