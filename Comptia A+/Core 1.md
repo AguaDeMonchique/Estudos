@@ -47,7 +47,13 @@ Hardware is going to be used for Processing, the CPU (central processing unit) o
 ### Storage
 The act of saving data for future use or retrieval 
 #### Two types of storage
-Temporary: 
-### Software
 
+<span style="background-color: grey;">Temporary</span>
+<span style="color:rgb(135, 206, 235)">Cache</span> is a very small and very fast type of storage called, which is actually part of our <span style="color:rgb(0, 176, 240)">CPU</span>.
+<span style="color:rgb(135, 206, 235)">Ram</span> <span style="color:rgb(135, 206, 235)"></span>another temporary storage area that computers have.
+
+<span style="background-color: grey;">Permanent or long-term storage,</span>
+we can use things like <span style="color:rgb(135, 206, 235)">hard disk drives, solid state drives, USB drives, CDs, DVDs, Blu-ray discs,</span>
+### Software
+<span style="color:rgb(135, 206, 235)"></span>
 ### Firmware
