@@ -40,20 +40,28 @@ Troubleshoot real world devices and network issues very quickly and affectively 
 
 ### Hardware
 Parts of a computer that  can be <span style="background-color: grey;">picked up, moved around, opened and closed </span>
+
+#### Input devices
 Ex.: <span style="color:rgb(135, 206, 235)"><strong>Keyboards</strong>,<strong> Mouses</strong>, <strong>RAM</strong> <strong> Microphone</strong>, <strong> Webcam</strong>, <strong> CPU</strong>, <strong> GPU</strong></span>
 
-Hardware is going to be used for Processing, the CPU (central processing unit) or GPU (graphic processor unit). These are the brain of the computer and are used to control everything the computer is doing. They convert some kind of input into something useful and usable.
+#### Processing
+Hardware is going to be used for Processing, the <span style="color:rgb(135, 206, 235)">CPU</span> (central processing unit) or <span style="color:rgb(135, 206, 235)">GPU</span> (graphic processor unit). These are the brain of the computer and are used to control everything the computer is doing. They convert some kind of input into something useful and usable.
 
-### Storage
+#### Storage
 The act of saving data for future use or retrieval 
-#### Two types of storage
 
-<span style="background-color: grey;">Temporary</span>
-<span style="color:rgb(135, 206, 235)">Cache</span> is a very small and very fast type of storage called, which is actually part of our <span style="color:rgb(0, 176, 240)">CPU</span>.
+**2 types of storage**
+**Temporary**
+<span style="font-style:italic; font-style:italic; color:rgb(135, 206, 235)">Cache</span> is a very small and very fast type of storage called, which is actually part of our <span style="color:rgb(0, 176, 240)">CPU</span>.
 <span style="color:rgb(135, 206, 235)">Ram</span> <span style="color:rgb(135, 206, 235)"></span>another temporary storage area that computers have.
 
-<span style="background-color: grey;">Permanent or long-term storage,</span>
+**Permanent or long-term storage**
 we can use things like <span style="color:rgb(135, 206, 235)">hard disk drives, solid state drives, USB drives, CDs, DVDs, Blu-ray discs,</span>
+
+#### Output
+Ex.: <span style="color:rgb(135, 206, 235)"><strong>Monitors</strong>,<strong> Displays</strong>, <strong>Printers</strong> <strong> Speaker</strong></span>
 ### Software
-<span style="color:rgb(135, 206, 235)"></span>
+Provides the instructions for the hardware
+
+**3 types of storage**
 ### Firmware
