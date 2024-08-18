@@ -15,5 +15,9 @@ Identify, connect components, etc...
 How virtualization works, compare and identify different types of cloud computing deployment and delivery models
 
 ### 5- Hardware and Network Troubleshooting (29% of the exam)
-Solve 
+Troubleshoot real world devices and network issues very quickly and affectively using <span style="color:rgb(0, 176, 240)">CompTIA</span> 7 steps troubleshooting methods and applying your knowledge of the others 4 domains
+
+
+# Learning order
+![[Pasted image 20240818172611.png]]
 
