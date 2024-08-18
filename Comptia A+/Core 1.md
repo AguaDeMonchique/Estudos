@@ -40,8 +40,14 @@ Troubleshoot real world devices and network issues very quickly and affectively 
 
 ### Hardware
 Parts of a computer that  can be <span style="background-color: grey;">picked up, moved around, opened and closed </span>
-Ex.: <span style="color:rgb(135, 206, 235)"><strong>keyboards</strong>,<strong> mouses</strong>, <strong>parler</strong>, <strong> avez<</strong></span>
+Ex.: <span style="color:rgb(135, 206, 235)"><strong>Keyboards</strong>,<strong> Mouses</strong>, <strong>RAM</strong> <strong> Microphone</strong>, <strong> Webcam</strong>, <strong> CPU</strong>, <strong> GPU</strong></span>
 
+Hardware is going to be used for Processing, the CPU (central processing unit) or GPU (graphic processor unit). These are the brain of the computer and are used to control everything the computer is doing. They convert some kind of input into something useful and usable.
+
+### Storage
+The act of saving data for future use or retrieval 
+#### Two types of storage
+Temporary: 
 ### Software
 
 ### Firmware
