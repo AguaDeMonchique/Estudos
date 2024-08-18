@@ -20,3 +20,6 @@ Troubleshoot real world devices and network issues very quickly and affectively 
 
 # Learning order
 ![[Pasted image 20240818172611.png]]
+
+# 30 days Study Plan
+![[Pasted image 20240818175608.png]]
