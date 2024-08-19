@@ -89,6 +89,8 @@ Is a specialized type of software that's contained on the chip that's going to b
 
 Nowadays most firmware is upgradeable and this is done through a process called flashing. Because of this, we call most modern firmware flashable.
 
+---
+
 # Safety Procedures
 There are four main areas of safety
 
@@ -132,3 +134,11 @@ To protect yourself from the threat of electrocution, you should always unplug t
 Ex.:  <span style="color:rgb(135, 206, 235)">you're going to install more memory or replace an expansion card, you should fully shut down the computer, unplug the power cord, and then go to work on the system.</span>
 
 ### Chemical Safety
+Chemical safety includes <span style="color:rgb(135, 206, 235)">proper handling</span> and <span style="color:rgb(135, 206, 235)">disposal</span> of hazardous materials and chemicals
+
+<span style="color:rgb(135, 206, 235)">This includes lithium batteries, toner from laser printers, hazardous materials and components such as lead, mercury and arsenic, and many others.</span> 
+
+For each chemical or hazardous material that you work with in your job, you should have access to a material safety data sheet known as the MSDS, which contains all the information about the ingredients, health hazards, precautions, and first aid information for that given chemical or hazardous material that you're going to be working with.
+
+------------------------------------------
+# Troubleshooting Methodology 
