@@ -113,6 +113,8 @@ if the object is 18 to 20 Kilos its considered a two person or team lift
 
 <span style="color:rgb(135, 206, 235)">Safety gear usage</span>:
 is safety goggles, gloves, and masks. When working around certain components, you may be using chemical compounds, such as thermal paste when installing a processor, or compressed air to clean out a piece of equipment.
+
+---
 ### Component Safety
 Actions taken to prevent damage to components 
 
@@ -130,6 +132,7 @@ The biggest thread to your components is known as <span style="color:rgb(135, 20
 prevents an electrostatic discharge from going into the components instead.
 
 -<span style="color:rgb(135, 206, 235)">ESD</span> mat that holds the computer and the components when I go to install the components into a given system.
+
 ### Electrical Safety
 To protect yourself from the threat of electrocution, you should always unplug the computer prior to working inside of its case.
 
