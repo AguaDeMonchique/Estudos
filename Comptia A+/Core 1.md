@@ -142,3 +142,11 @@ For each chemical or hazardous material that you work with in your job, you shou
 
 ------------------------------------------
 # Troubleshooting Methodology 
+
+## CompTIA troubleshooting 6 steps
+
+### 1º Step Identify the problem
+
+When you attempt to identify the problem you should gather information from the user, identify user changes, and, if applicable, perform backups before you make any kind of changes. You should also ask if there's been any environmental or infrastructure changes recently because those could also affect the system too.
+
+### 2º Step Establish a theory of probable cause.
