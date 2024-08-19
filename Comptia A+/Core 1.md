@@ -251,17 +251,10 @@ But each particular port is controlled by what's known as a host controller, and
 
 Low speed usb known as USB 1.0
 
-| Current Version Name | Market Name           | Original Name | Transfer rate | Theoretical Speed |
-| -------------------- | --------------------- | ------------- | ------------- | ----------------- |
-| USB 2.0 LowSpeed     | Low Speed             | USB 1.0       | 1.5Mbps       | 0.1875MB/s        |
-| USB 2.0 FullSpeed    | Full Speed            | USB 1.1       | 12Mbps        | 1.5MB/s           |
-| USB 2.0 HiSpeed      | Hi-Speed              | USB 2.0       | 480Mbps       | 60MB/s            |
-| USB 3.2 Gen 1        | SuperSpeed USB        | USB 3.1GEN1   | 5Gbps         | 625MB/s           |
-| USB 3.2 Gen 2        | SuperSpeed USB 10Gbps | USB 3.1GEN2   | 10Gbps        | 1250MB/s          |
-| USB 3.2 Gen 2x2      | SuperSpeed USB 20Gbps | n/a           | 20Gbps        | 2500MB/s          |
-| USB 4                |                       |               | 40Gbps        | 5GB/s             |
+![[Pasted image 20240819181703.png]]
 
-Longer cables have higher chances of resistance and speed and signal deterioration
+<span style="font-style:italic; background-color: grey;">Longer cables have higher chances of resistance and speed and signal deterioration</span>
+
 
 <span style="color:rgb(135, 206, 235)">USB 1.0/USB 2.0 </span>
 500 milliamps or 0.5 amps
@@ -270,5 +263,8 @@ Longer cables have higher chances of resistance and speed and signal deteriorati
 900 milliamps or 0.9 amps
 
 <span style="font-style:italic; background-color: grey;">BUT IF USING A POWER DEDICATED PORT (PD)</span> can get up to 1500 milliamps or 1.5 amps(7.5 W)
+
+![[Pasted image 20240819181642.png]]
+
 
 ![[Pasted image 20240819181520.png]]
