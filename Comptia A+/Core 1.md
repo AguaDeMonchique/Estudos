@@ -268,3 +268,22 @@ Low speed usb known as USB 1.0
 
 
 ![[Pasted image 20240819181520.png]]
+
+---
+# Video Cables
+
+<span style="color:rgb(135, 206, 235)">HDMI:</span> High Definition Multimedia Interface
+
+<span style="color:rgb(135, 206, 235)">HDMI high resolutions</span> can go up to 4k and 8k resolutions with 60, 120 or 144 Hertz
+
+<span style="color:rgb(135, 206, 235)">HDMI</span> cables can also support something known as HDCP, which is HDMI Digital Content Protection.
+
+HDCP: Allows a device to validate the connection
+
+## Types of HDMI connectors
+
+Type A: regular full-size connector
+Type C: Mini connector
+Type D: Micro connector
+
+![[Pasted image 20240820002746.png]]
