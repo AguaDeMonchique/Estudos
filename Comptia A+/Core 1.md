@@ -245,4 +245,20 @@ Now when you see a serial cable, normally it is going to be a DB9 type of connec
 Using USB we can connect up to 127 devices to our computer through USB Hubs
 
 
+<span style="color:rgb(135, 206, 235)">Host controller:</span> Uses the same amount of bandwidth for all devices in a port.
+
 But each particular port is controlled by what's known as a host controller, and each host controller uses the same amount of bandwidth for all devices on that particular port. So if I have one device connected to a USB port and it's a USB 3 type of port that supports five gigabits per second, I can give all five gigabits per second to that one device. But if I daisy change five different devices on that same port, I now can only give up to one gigabit per second to each of those devices because they're sharing that total of five gigabits per second across all the devices in that particular chain.
+
+Low speed usb known as USB 1.0
+
+| Current Version Name | Market Name | Original Name | Transfer rate | Theoretical Speed |
+| -------------------- | ----------- | ------------- | ------------- | ----------------- |
+| USB 2.0 LOW SPEED    | LOW SPEED   |               |               |                   |
+| USB 2.0 FULL SPEED   | FULL SPEED  |               |               |                   |
+| USB 2.0 HiSPpeed     | HISPEED     |               |               |                   |
+|                      |             |               |               |                   |
+|                      |             |               |               |                   |
+|                      |             |               |               |                   |
+|                      |             |               |               |                   |
+
+

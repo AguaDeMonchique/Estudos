@@ -8,10 +8,10 @@ texto com fundo <span style="background-color: grey;">Texto com fundo amarelo</s
 **negtrito**
 <span style="color:rgb(0, 176, 240)">colorido</span> 
 
-| Letra | Pronúncia | 
-| ----- | ------------|
-| **a**       | á               |
-<span style="background-color: grey;">
+| Letra | Pronúncia |     |
+| ----- | --------- | --- |
+| **a** | á         |     |
+<span style="font-style:italic; background-color: grey;">
   <strong>é</strong>, <strong>et</strong>, <strong>er</strong>, <strong>ez</strong>
 </span> negrito com fundo
 
