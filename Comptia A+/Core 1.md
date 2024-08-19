@@ -64,7 +64,9 @@ we can use things like <span style="color:rgb(135, 206, 235)">hard disk drives, 
 -------------------------------------------------------------------------------
 #### Output
 Ex.: <span style="color:rgb(135, 206, 235)"><strong>Monitors</strong>,<strong> Displays</strong>, <strong>Printers</strong> <strong> Speaker</strong></span>
-### Software
+
+------
+## Software
 Provides the instructions for the hardware
 
 ##### 3 types of software
@@ -145,31 +147,60 @@ For each chemical or hazardous material that you work with in your job, you shou
 
 ## CompTIA troubleshooting 6 steps
 
-### 1º Step Identify the problem
+### 1º Step: Identify the problem
 
 When you attempt to identify the problem you should gather information from the user, identify user changes, and, if applicable, perform backups before you make any kind of changes. You should also ask if there's been any environmental or infrastructure changes recently because those could also affect the system too.
 
-### 2º Step Establish a theory of probable cause.
+### 2º Step: Establish a theory of probable cause.
 
 
 if the system won't power on, you should probably check that the workstation is actually plugged into the wall outlet properly and that the wall outlet actually has power. As you attempt to establish a theory of probable cause you may also need to conduct external or internal research based on the symptoms that are being displayed. One of my favorite troubleshooting tools is Google
 
-### 3º Step Test the theory to determine the cause.
+### 3º Step: Test the theory to determine the cause.
 
 In step three, it's time to test that theory. 
 
-Using the example of the computer that wouldn't turn on. Maybe you suspected the outlet was faulty. Now the easiest way to test this is to plug your computer into another outlet and try to power it on. If the computer powers on, then guess what, you know the outlet was the problem. Once that theory is confirmed, then you need to determine the next steps to resolve that problem. In the case of a power outlet that's not working, that might mean that you need to replace the power outlet or put in a work order for an electrician to come out and then replace that outlet for you depending on your skill level and the company policies.
+<span style="color:rgb(135, 206, 235)">Using the example of the computer that wouldn't turn on. Maybe you suspected the outlet was faulty. Now the easiest way to test this is to plug your computer into another outlet and try to power it on. If the computer powers on, then guess what, you know the outlet was the problem. Once that theory is confirmed, then you need to determine the next steps to resolve that problem. In the case of a power outlet that's not working, that might mean that you need to replace the power outlet or put in a work order for an electrician to come out and then replace that outlet for you depending on your skill level and the company policies.</span>
 
 Now if the theory is not confirmed then we need to reestablish a new theory by guessing what else could be the problem, or, if you're truly stuck, then you could escalate that problem to the next higher tier of support such as a coworker or the field services technicians.
 
-### 4º Step Establish a plan of action to resolve the problem
+### 4º Step: Establish a plan of action to resolve the problem
 
 Establish a plan of action to resolve the problem and implement the solution
 
-Going back to the power outlet example, our plan of action is to replace the outlet. The solution to implement that is to buy and replace the outlet or put in a work order so a professional electrician can replace it for us.
+<span style="color:rgb(135, 206, 235)">Going back to the power outlet example, our plan of action is to replace the outlet. The solution to implement that is to buy and replace the outlet or put in a work order so a professional electrician can replace it for us.
+</span>
 
 If you're working on a computer system, remember, it's always a good idea to refer to the manufacturer or vendor's instructions for repairing or replacing its components.
 
-### 5º Step Verify full system functionality
+### 5º Step: Verify full system functionality
 
-Now at this point, you figured out the issue, you've implemented the solution, and hopefully you've solved this issue. But to verify that you need to check the system and verify the system is fully functional. Also, if the issue is one that could have been prevented, now is a good time to implement preventative measures. For example, if an employee spilled their coffee on their laptop and this short circuited their keyboard, you might implement a preventative measure by having the company issue a memo to all of the employees that says you can only drink if you're using a cup that has a covered lid when you're using a company provided laptop or workstation because this prevents inadvertent spills.
+Now at this point, you figured out the issue, you've implemented the solution, and hopefully you've solved this issue. But to verify that you need to check the system and verify the system is fully functional. Also, if the issue is one that could have been prevented, now is a good time to implement preventative measures. 
+
+<span style="color:rgb(135, 206, 235)">For example, if an employee spilled their coffee on their laptop and this short circuited their keyboard, you might implement a preventative measure by having the company issue a memo to all of the employees that says you can only drink if you're using a cup that has a covered lid when you're using a company provided laptop or workstation because this prevents inadvertent spills.</span>
+
+
+###  6º Step: Document the findings, actions, and outcome.
+
+Now that all the work is done, we want to take a moment to document what was wrong, what we did to solve it, and what the final outcome was. <span style="color:rgb(135, 206, 235)">So, let's go back to the spilled coffee on the laptop example.</span> 
+
+You might go to the trouble ticket system and document the findings and actions as,
+
+<span style="color:rgb(135, 206, 235)">"The user's laptop keyboard was not responsive.</span>
+<span style="color:rgb(135, 206, 235)">"Upon visual inspection,</span>
+<span style="color:rgb(135, 206, 235)">"the keyboard appeared to be sticky and damaged.</span>
+<span style="color:rgb(135, 206, 235)">"When I opened up the laptop, I saw residual brown liquid</span>
+<span style="color:rgb(135, 206, 235)">"suspected to be coffee.</span>
+<span style="color:rgb(135, 206, 235)">"I removed the internal keyboard,</span>
+<span style="color:rgb(135, 206, 235)">"dried the laptop overnight,</span>
+<span style="color:rgb(135, 206, 235)">"installed a new keyboard, and retested the system</span>
+<span style="color:rgb(135, 206, 235)">"to verify everything was functional again."</span>
+
+Now, under the outcome in the ticket, you could then enter,
+
+<span style="color:rgb(135, 206, 235)">"End user laptop has been fully restored to service</span>
+<span style="color:rgb(135, 206, 235)">"after replacing the internal keyboard.</span>
+<span style="color:rgb(135, 206, 235)">"The end user was advised to be careful with liquids</span>
+<span style="color:rgb(135, 206, 235)">"around company equipment</span>
+<span style="color:rgb(135, 206, 235)">"and to use a lid</span>
+<span style="color:rgb(135, 206, 235)">"when drinking near any electronic equipment."</span> 
