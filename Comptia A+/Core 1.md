@@ -222,4 +222,8 @@ A single "Bit" can store one of two values: 1 or 0
 ---
 # Exterior of a PC
 
-The Blue ones USB Ports are SuperSpeed
+The Blue ones USB Ports are SuperSpeed so they operate at speeds of USB 3 which is up to five gigabits per second
+
+The Regular ones only operate at speeds of USB 2
+
+eight of an inch audio jack
