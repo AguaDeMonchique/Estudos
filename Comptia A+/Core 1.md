@@ -207,3 +207,14 @@ Now, under the outcome in the ticket, you could then enter,
 <span style="color:rgb(135, 206, 235)">"around company equipment</span>
 <span style="color:rgb(135, 206, 235)">"and to use a lid</span>
 <span style="color:rgb(135, 206, 235)">"when drinking near any electronic equipment."</span> 
+
+---
+---
+# Cable Types (domain 3)
+
+A single "Bit" can store one of two values: 1 or 0 
+				<span style="color:rgb(135, 206, 235)">0</span> 
+"Nibble" is for bits
+<span style="color:rgb(135, 206, 235)">0100</span> 
+"Bytes" is 8 bits
+<span style="color:rgb(135, 206, 235)">11011010</span> 
