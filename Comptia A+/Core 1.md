@@ -251,14 +251,14 @@ But each particular port is controlled by what's known as a host controller, and
 
 Low speed usb known as USB 1.0
 
-| Current Version Name | Market Name | Original Name | Transfer rate | Theoretical Speed |
-| -------------------- | ----------- | ------------- | ------------- | ----------------- |
-| USB 2.0 LOW SPEED    | LOW SPEED   |               |               |                   |
-| USB 2.0 FULL SPEED   | FULL SPEED  |               |               |                   |
-| USB 2.0 HiSPpeed     | HISPEED     |               |               |                   |
-|                      |             |               |               |                   |
-|                      |             |               |               |                   |
-|                      |             |               |               |                   |
-|                      |             |               |               |                   |
+| Current Version Name | Market Name           | Original Name | Transfer rate | Theoretical Speed |
+| -------------------- | --------------------- | ------------- | ------------- | ----------------- |
+| USB 2.0 LowSpeed     | Low Speed             | USB 1.0       | 1.5Mbps       | 0.1875MB/s        |
+| USB 2.0 FullSpeed    | Full Speed            | USB 1.1       | 12Mbps        | 1.5MB/s           |
+| USB 2.0 HiSpeed      | Hi-Speed              | USB 2.0       | 480Mbps       | 60MB/s            |
+| USB 3.2 Gen 1        | SuperSpeed USB        | USB 3.1GEN1   | 5Gbps         | 625MB/s           |
+| USB 3.2 Gen 2        | SuperSpeed USB 10Gbps | USB 3.1GEN2   | 10Gbps        | 1250MB/s          |
+| USB 3.2 Gen 2x2      | SuperSpeed USB 20Gbps | n/a           | 20Gbps        | 2500MB/s          |
+| USB 4                |                       |               | 40Gbps        | 5GB/s             |
 
 
