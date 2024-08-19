@@ -117,6 +117,18 @@ The biggest thread to your components is known as <span style="color:rgb(135, 20
 <span style="color:rgb(135, 206, 235)">Electrostatic Discharge</span> <span style="color:rgb(135, 206, 235)">(<span style="color:rgb(135, 206, 235)">ESD</span>)</span>: Occurs when electrons rush from the body to a component.
 
 <span style="color:rgb(135, 206, 235)">How can happen: </span>If you just walked across a carpeted floor, you're going to be building up static electricity in your body. And then if you touch a motherboard, an expansion card, or other circuit board, you can actually discharge that static electricity from your body into that component and it will damage it.
+
+<span style="color:rgb(135, 206, 235)">How to prevent:</span> 
+
+-To prevent <span style="color:rgb(135, 206, 235)">ESD</span> from damaging your components, you should always carry your components around in an antistatic bag that protects it from ESD by using a coating inside of that bag that is a conductive material.
+
+-When it comes time to handle the components for installation, you're going to need to wear an <span style="color:rgb(135, 206, 235)">ESD</span> wrist strap that discharges the static electricity from your body into a ground. And this 
+prevents an electrostatic discharge from going into the components instead.
+
+-<span style="color:rgb(135, 206, 235)">ESD</span> mat that holds the computer and the components when I go to install the components into a given system.
 ### Electrical Safety
+To protect yourself from the threat of electrocution, you should always unplug the computer prior to working inside of its case.
+
+Ex.:  <span style="color:rgb(135, 206, 235)">you're going to install more memory or replace an expansion card, you should fully shut down the computer, unplug the power cord, and then go to work on the system.</span>
 
 ### Chemical Safety
