@@ -270,3 +270,5 @@ Longer cables have higher chances of resistance and speed and signal deteriorati
 900 milliamps or 0.9 amps
 
 <span style="font-style:italic; background-color: grey;">BUT IF USING A POWER DEDICATED PORT (PD)</span> can get up to 1500 milliamps or 1.5 amps(7.5 W)
+
+![[Pasted image 20240819181520.png]]
