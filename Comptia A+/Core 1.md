@@ -49,6 +49,7 @@ Ex.: <span style="color:rgb(135, 206, 235)"><strong>Keyboards</strong>,<strong> 
 #### Processing
 Hardware is going to be used for Processing, the <span style="color:rgb(135, 206, 235)">CPU</span> (central processing unit) or <span style="color:rgb(135, 206, 235)">GPU</span> (graphic processor unit). These are the brain of the computer and are used to control everything the computer is doing. They convert some kind of input into something useful and usable.
 
+-------------------------------------------------------------------------------
 #### Storage
 The act of saving data for future use or retrieval 
 
@@ -60,6 +61,7 @@ The act of saving data for future use or retrieval
 **Permanent or long-term storage**
 we can use things like <span style="color:rgb(135, 206, 235)">hard disk drives, solid state drives, USB drives, CDs, DVDs, Blu-ray discs,</span>
 
+-------------------------------------------------------------------------------
 #### Output
 Ex.: <span style="color:rgb(135, 206, 235)"><strong>Monitors</strong>,<strong> Displays</strong>, <strong>Printers</strong> <strong> Speaker</strong></span>
 ### Software
@@ -95,15 +97,26 @@ There are four main areas of safety
 <span style="color:rgb(135, 206, 235)">Trip hazard avoidance</span>: A trip hazard occurs anytime you have an object in the pathway where people are going to walk.
 
 <span style="color:rgb(135, 206, 235)">How to prevent:</span>  Always run cables through your drop ceilings, underneath your raised floors, or you should use a cable runway that covers the distance across the floor to prevent people from tripping.
+
 -----------------------------------------------------------------------------------------------------------
 <span style="color:rgb(135, 206, 235)"><span style="color:rgb(135, 206, 235)">Proper</span> lifting techniques</span>: Whenever you attempt to lift a heavy or bulky object, you can injure your back or strain your muscles if you aren't careful.
 
 <span style="color:rgb(135, 206, 235)">how to prevent:</span> always lift with your legs and not your back.
+
+if the object is 18 to 20 Kilos its considered a two person or team lift
+
 -----------------------------------------------------------------------------------------------------------
+
 <span style="color:rgb(135, 206, 235)">Safety gear usage</span>:
-
+is safety goggles, gloves, and masks. When working around certain components, you may be using chemical compounds, such as thermal paste when installing a processor, or compressed air to clean out a piece of equipment.
 ### Component Safety
+Actions taken to prevent damage to components 
 
+The biggest thread to your components is known as <span style="color:rgb(135, 206, 235)">Electrostatic Discharge</span> <span style="color:rgb(135, 206, 235)">(<span style="color:rgb(135, 206, 235)">ESD</span>)</span>.
+
+<span style="color:rgb(135, 206, 235)">Electrostatic Discharge</span> <span style="color:rgb(135, 206, 235)">(<span style="color:rgb(135, 206, 235)">ESD</span>)</span>: Occurs when electrons rush from the body to a component.
+
+<span style="color:rgb(135, 206, 235)">How can happen: </span>If you just walked across a carpeted floor, you're going to be building up static electricity in your body. And then if you touch a motherboard, an expansion card, or other circuit board, you can actually discharge that static electricity from your body into that component and it will damage it.
 ### Electrical Safety
 
 ### Chemical Safety
