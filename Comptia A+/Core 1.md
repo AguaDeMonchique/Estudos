@@ -227,3 +227,22 @@ The Blue ones USB Ports are SuperSpeed so they operate at speeds of USB 3 which 
 The Regular ones only operate at speeds of USB 2
 
 eight of an inch audio jack
+
+---
+# USB Cables 
+
+## Serial Cables
+serial cables were connected to a computer using either a DB9 or DB25 connector. But DB9 was more common
+
+<span style="color:rgb(135, 206, 235)">DB9</span> is a D-shaped sub-miniature pin at the back of the computer. And this particular cable connector would actually have two thumb screws on the side, that you would screw that serial cable into the serial port on the back of a computer's motherboard.
+
+the fastest you're going to find these is up to about 115,000 bits per second, which is often written and spoken as 115 kilobits per second.
+
+Now when you see a serial cable, normally it is going to be a DB9 type of connector as shown here. These are going to be used for a slow speed connection, and generally for much older mice, keyboards, and external modems.
+
+
+## USB
+Using USB we can connect up to 127 devices to our computer through USB Hubs
+
+
+But each particular port is controlled by what's known as a host controller, and each host controller uses the same amount of bandwidth for all devices on that particular port. So if I have one device connected to a USB port and it's a USB 3 type of port that supports five gigabits per second, I can give all five gigabits per second to that one device. But if I daisy change five different devices on that same port, I now can only give up to one gigabit per second to each of those devices because they're sharing that total of five gigabits per second across all the devices in that particular chain.
