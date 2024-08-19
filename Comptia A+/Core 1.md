@@ -318,3 +318,15 @@ Uses a 15-pin standard analog video interface port
 
 # ThunderBolt
 acts like a display interface and can do data transfers
+
+## Types of ThunderBolt connectors
+ThunderBolt and DisplayPort look identical but ThunderBolt has a lightning in it
+
+<span style="color:rgb(135, 206, 235)">ThunderBolt</span> <span style="color:rgb(135, 206, 235)">1</span> and <span style="color:rgb(135, 206, 235)">2</span> use physical connector that's backwards compatible with <span style="color:rgb(135, 206, 235)">DisplayPort</span> 
+
+
+<span style="color:rgb(135, 206, 235)">ThunderBolt 3</span>  Changed the physical interface to use the same port connector as <span style="color:rgb(135, 206, 235)">USB-C</span>
+The maximum cable length for ThunderBolt 3 is 1.6 ft(~48 cm) which provides up to 40Gbps
+
+<span style="color:rgb(135, 206, 235)">USB-C</span> does not always support <span style="color:rgb(135, 206, 235)">ThunderBolt</span> <span style="color:rgb(135, 206, 235)">3</span>, but all <span style="color:rgb(135, 206, 235)">ThunderBolt 3</span> support <span style="color:rgb(135, 206, 235)">USB-C</span>
+
