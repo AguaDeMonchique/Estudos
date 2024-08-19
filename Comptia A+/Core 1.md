@@ -287,3 +287,16 @@ Type C: Mini connector
 Type D: Micro connector
 
 ![[Pasted image 20240820002746.png]]
+
+## HDMI Categories
+
+Category 1- Standard: used for video content can only support 1080p and 60 Hertz
+Category 2- High Speed: Has great length of distance and high resolution supports up to 4k and 8k resolutions with 60, 120 or 144 Hertz
+
+## Version 2 or 2.1
+Also has higher speeds that are specified for data transfer that can be done over HDMI. This includes the premium high speed of up to 18 gigabits per second, and the ultra high speed of up to 48 gigabits per second on those particular cable types.
+
+# Display Port(DP)
+DisplayPort does have all of the same capabilities like being able to send video and audio, doing digital content protection, and supporting resolutions of 4k and above.
+
+## Types of Dis connectors
