@@ -218,3 +218,8 @@ A single "Bit" can store one of two values: 1 or 0
 <span style="color:rgb(135, 206, 235)">0100</span> 
 "Bytes" is 8 bits
 <span style="color:rgb(135, 206, 235)">11011010</span> 
+
+---
+# Exterior of a PC
+
+The Blue ones USB Ports are SuperSpeed
