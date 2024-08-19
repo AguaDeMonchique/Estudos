@@ -150,3 +150,26 @@ For each chemical or hazardous material that you work with in your job, you shou
 When you attempt to identify the problem you should gather information from the user, identify user changes, and, if applicable, perform backups before you make any kind of changes. You should also ask if there's been any environmental or infrastructure changes recently because those could also affect the system too.
 
 ### 2º Step Establish a theory of probable cause.
+
+
+if the system won't power on, you should probably check that the workstation is actually plugged into the wall outlet properly and that the wall outlet actually has power. As you attempt to establish a theory of probable cause you may also need to conduct external or internal research based on the symptoms that are being displayed. One of my favorite troubleshooting tools is Google
+
+### 3º Step Test the theory to determine the cause.
+
+In step three, it's time to test that theory. 
+
+Using the example of the computer that wouldn't turn on. Maybe you suspected the outlet was faulty. Now the easiest way to test this is to plug your computer into another outlet and try to power it on. If the computer powers on, then guess what, you know the outlet was the problem. Once that theory is confirmed, then you need to determine the next steps to resolve that problem. In the case of a power outlet that's not working, that might mean that you need to replace the power outlet or put in a work order for an electrician to come out and then replace that outlet for you depending on your skill level and the company policies.
+
+Now if the theory is not confirmed then we need to reestablish a new theory by guessing what else could be the problem, or, if you're truly stuck, then you could escalate that problem to the next higher tier of support such as a coworker or the field services technicians.
+
+### 4º Step Establish a plan of action to resolve the problem
+
+Establish a plan of action to resolve the problem and implement the solution
+
+Going back to the power outlet example, our plan of action is to replace the outlet. The solution to implement that is to buy and replace the outlet or put in a work order so a professional electrician can replace it for us.
+
+If you're working on a computer system, remember, it's always a good idea to refer to the manufacturer or vendor's instructions for repairing or replacing its components.
+
+### 5º Step Verify full system functionality
+
+Now at this point, you figured out the issue, you've implemented the solution, and hopefully you've solved this issue. But to verify that you need to check the system and verify the system is fully functional. Also, if the issue is one that could have been prevented, now is a good time to implement preventative measures. For example, if an employee spilled their coffee on their laptop and this short circuited their keyboard, you might implement a preventative measure by having the company issue a memo to all of the employees that says you can only drink if you're using a cup that has a covered lid when you're using a company provided laptop or workstation because this prevents inadvertent spills.
