@@ -261,4 +261,12 @@ Low speed usb known as USB 1.0
 | USB 3.2 Gen 2x2      | SuperSpeed USB 20Gbps | n/a           | 20Gbps        | 2500MB/s          |
 | USB 4                |                       |               | 40Gbps        | 5GB/s             |
 
+Longer cables have higher chances of resistance and speed and signal deterioration
 
+<span style="color:rgb(135, 206, 235)">USB 1.0/USB 2.0 </span>
+500 milliamps or 0.5 amps
+
+<span style="color:rgb(135, 206, 235)">USB 3.0 </span>
+900 milliamps or 0.9 amps
+
+<span style="font-style:italic; background-color: grey;">BUT IF USING A POWER DEDICATED PORT (PD)</span> can get up to 1500 milliamps or 1.5 amps(7.5 W)
