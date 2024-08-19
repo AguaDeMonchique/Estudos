@@ -45,6 +45,7 @@ Parts of a computer that  can be <span style="background-color: grey;">picked up
 #### Input devices
 Ex.: <span style="color:rgb(135, 206, 235)"><strong>Keyboards</strong>,<strong> Mouses</strong>, <strong>RAM</strong>, <strong> Microphone</strong>, <strong> Webcam</strong>, <strong> CPU</strong>, <strong> GPU</strong></span>
 
+-------------------------------------------------------------------------------
 #### Processing
 Hardware is going to be used for Processing, the <span style="color:rgb(135, 206, 235)">CPU</span> (central processing unit) or <span style="color:rgb(135, 206, 235)">GPU</span> (graphic processor unit). These are the brain of the computer and are used to control everything the computer is doing. They convert some kind of input into something useful and usable.
 
@@ -70,10 +71,12 @@ Provides the instructions for the hardware
 Provides a method for saving, retrieving, changing, printing, and transmitting information within the computer.
 Ex.: <span style="color:rgb(135, 206, 235)"><strong>OS X</strong>,<strong> Linux</strong>, <strong>Android</strong> <strong> iOS</strong>, <strong> Windows</strong>, <strong> Chrome OS</strong></span>
 
+-------------------------------------------------------------------------------
 **Application Software**
 Used to create, store, modify, and view information or data
 Ex.: <span style="color:rgb(135, 206, 235)"><strong>Microsoft Word</strong>,<strong> Adobe Premiere</strong>, <strong>Firefox</strong> </span>
 
+-------------------------------------------------------------------------------
 **Drivers**
 Used to translate commands from operating system to a piece of hardware
 Ex.: <span style="color:rgb(135, 206, 235)"><strong>if I go and install a new video card in my workstation, Windows is probably going to be able to detect it and use a generic driver to at least understand how to display the images on the screen for me using that graphics card.</strong></span>
@@ -85,3 +88,22 @@ Is a specialized type of software that's contained on the chip that's going to b
 Nowadays most firmware is upgradeable and this is done through a process called flashing. Because of this, we call most modern firmware flashable.
 
 # Safety Procedures
+There are four main areas of safety
+
+### Personal Safety
+
+<span style="color:rgb(135, 206, 235)">Trip hazard avoidance</span>: A trip hazard occurs anytime you have an object in the pathway where people are going to walk.
+
+<span style="color:rgb(135, 206, 235)">How to prevent:</span>  Always run cables through your drop ceilings, underneath your raised floors, or you should use a cable runway that covers the distance across the floor to prevent people from tripping.
+-----------------------------------------------------------------------------------------------------------
+<span style="color:rgb(135, 206, 235)"><span style="color:rgb(135, 206, 235)">Proper</span> lifting techniques</span>: Whenever you attempt to lift a heavy or bulky object, you can injure your back or strain your muscles if you aren't careful.
+
+<span style="color:rgb(135, 206, 235)">how to prevent:</span> always lift with your legs and not your back.
+-----------------------------------------------------------------------------------------------------------
+<span style="color:rgb(135, 206, 235)">Safety gear usage</span>:
+
+### Component Safety
+
+### Electrical Safety
+
+### Chemical Safety
