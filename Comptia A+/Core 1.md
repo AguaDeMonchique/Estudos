@@ -357,7 +357,30 @@ Standard method of connecting a storage device to a motherboard
 
 ### Versions of SATA
 
-SATA revision 1 - support speeds of up to1500Mbps (1.5Gbps)
-SATA revision 2 - support speeds of up to 3000Mbps (3Gbps)
-SATA revision 3 - support speeds of up to 6000Mbps (6Gbps)
+<span style="color:rgb(135, 206, 235)">SATA revision 1</span> - support speeds of up to1500Mbps (1.5Gbps)
+<span style="color:rgb(135, 206, 235)">SATA revision 2</span> - support speeds of up to 3000Mbps (3Gbps)
+<span style="color:rgb(135, 206, 235)">SATA revision 3</span> - support speeds of up to 6000Mbps (6Gbps)
 
+So what you're going to find in the field is that if you're using SATA revision three, your limitation is not going to be the SATA cable itself but, usually, the device you're connected to.
+
+<span style="color:rgb(135, 206, 235)">Example</span>: if you're using a modern hard drive of 7,200 RPMs, they simply can't spin fast enough to transfer data at six gigabits per second, like the SATA data cable can.
+
+## External SATA (eSATA)
+Cable outside of the case 
+
+eSATA 1 appeared when USB 2 was around and had a maximum speed of 480 megabits 
+
+![[Pasted image 20240820153035.png]]
+
+but with USB 3 and USB 4 speeds now getting into 10, 20 and 40 gigabits per second, using eSATA is becoming a lot less common.
+
+### IDE or PATA
+![[Pasted image 20240820153303.png]]
+![[Pasted image 20240820153336.png]]
+Had 40 pins
+
+![[Pasted image 20240820153508.png]]
+
+When it comes to IDE or PATA, these actually were known as parallel devices because you could put more than one device on a single cable. Each cable could support up to two devices, and they could both communicate at the same time, which is why we call it parallel. When you look at SATA devices, on the other hand, there is a single cable going from the motherboard directly to that device, which gives you those higher speeds, but it is a limitation of only one device per cable, which is why we call it serial because things have to happen one at a time or in a serial manner. Now, similar to a SATA drive, your IDE and PATA drives did need two different cables to work.
+
+PATA or IDE also need anot
