@@ -383,4 +383,21 @@ Had 40 pins
 
 When it comes to IDE or PATA, these actually were known as parallel devices because you could put more than one device on a single cable. Each cable could support up to two devices, and they could both communicate at the same time, which is why we call it parallel. When you look at SATA devices, on the other hand, there is a single cable going from the motherboard directly to that device, which gives you those higher speeds, but it is a limitation of only one device per cable, which is why we call it serial because things have to happen one at a time or in a serial manner. Now, similar to a SATA drive, your IDE and PATA drives did need two different cables to work.
 
-PATA or IDE also need anot
+PATA or IDE also need anothe cable known as MOLEX a power connector![[Pasted image 20240820153719.png]]
+![[Pasted image 20240820153731.png]]![[Pasted image 20240820153731 1.png]
+
+## Small Computer Systems Interface (SCSI)
+Legacy parallel bus connector that allows multiple devices to be daisy chained together
+
+### Types of SCSI
+
+<span style="color:rgb(135, 206, 235)">Narrow SCSI:</span> Supports up to 7 devices
+<span style="color:rgb(135, 206, 235)">Wide SCSI:</span> Supports up to 15 devices
+
+![[Pasted image 20240820154115.png]]
+If using the 68 pins cable u had to use a power cable called MOLEX
+if using the 80 pins this already incorporates both power and data into a single cable
+
+![[Pasted image 20240820154310.png]]
+
+SCSI is a really old standard, and it is considered a legacy technology. Its maximum speed was only 320 megabits per second, which means it is 20 times slower than a modern SATA revision three cable, and this is why SCSI really doesn't have a place in today's modern environment, and everyone has pretty much moved over to using SATA or other types of connectors like USB and Thunderbolt for modern peripherals and storage devices.
