@@ -264,6 +264,8 @@ Low speed usb known as USB 1.0
 
 <span style="font-style:italic; background-color: grey;">BUT IF USING A POWER DEDICATED PORT (PD)</span> can get up to 1500 milliamps or 1.5 amps(7.5 W)
 
+USB devices are considered hot-swappable and each device can draw up to 2.5 W of power over a USB port. USB 3.0 and 3.1 define 5 Gbps (SuperSpeed) and 10 Gbps (SuperSpeed+) rates and can deliver up to 4.5 W of power.
+
 ![[Pasted image 20240819181642.png]]
 
 
