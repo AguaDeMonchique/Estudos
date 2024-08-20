@@ -300,6 +300,7 @@ Also has higher speeds that are specified for data transfer that can be done ove
 DisplayPort does have all of the same capabilities like being able to send video and audio, doing digital content protection, and supporting resolutions of 4k and above.
 
 Display Ports can support high speed data transfer up to 20Gbps, originally only 2.7 gigabits per second but with the new version it can go up to 20 gigabits per second
+DisplayPort uses a thunderbolt cable to connect a monitor to the computer.
 ## Types of Display Ports connectors
 
 Full Size DisplayPort(DP)
@@ -308,7 +309,7 @@ Mini DisplayPort(MDP)
 # Digital Visual Interface (DVI)
 Supports analog and digital outputs
 
-## Types of Display Ports connectors
+## Types of DVI connectors
 DVI-A: Supports analog signals
 DVI-D: Supports digital signals
 DVI-I: Supports digital and analog signals
