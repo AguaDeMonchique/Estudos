@@ -216,13 +216,13 @@ A single "Bit" can store one of two values: 1 or 0
 				<span style="color:rgb(135, 206, 235)">0</span> 
 "Nibble" is for bits
 <span style="color:rgb(135, 206, 235)">0100</span> 
-"Bytes" is 8 bits
+"Byte" is 8 bits
 <span style="color:rgb(135, 206, 235)">11011010</span> 
 
 ---
 # Exterior of a PC
 
-The Blue ones USB Ports are SuperSpeed so they operate at speeds of USB 3 which is up to five gigabits per second
+The Blue ones USB Ports are SuperSpeed so they operate at speeds of USB 3 which is up to 5 gigabits per second
 
 The Regular ones only operate at speeds of USB 2
 
