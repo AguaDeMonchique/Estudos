@@ -320,7 +320,9 @@ Uses a 15-pin standard analog video interface port
 acts like a display interface and can do data transfers
 
 ## Types of ThunderBolt connectors
-ThunderBolt and DisplayPort look identical but ThunderBolt has a lightning in it
+
+![[Pasted image 20240820151730.png]]
+
 
 <span style="color:rgb(135, 206, 235)">ThunderBolt</span> <span style="color:rgb(135, 206, 235)">1</span> and <span style="color:rgb(135, 206, 235)">2</span> use physical connector that's backwards compatible with <span style="color:rgb(135, 206, 235)">DisplayPort</span> 
 
@@ -329,4 +331,33 @@ ThunderBolt and DisplayPort look identical but ThunderBolt has a lightning in it
 The maximum cable length for ThunderBolt 3 is 1.6 ft(~48 cm) which provides up to 40Gbps
 
 <span style="color:rgb(135, 206, 235)">USB-C</span> does not always support <span style="color:rgb(135, 206, 235)">ThunderBolt</span> <span style="color:rgb(135, 206, 235)">3</span>, but all <span style="color:rgb(135, 206, 235)">ThunderBolt 3</span> support <span style="color:rgb(135, 206, 235)">USB-C</span>
+
+
+
+
+---
+
+# Storage Cables
+
+## ThunderBolt
+![[Pasted image 20240820151717.png]]
+
+If using USB version 4 and ThunderBolt 4 they are both compatible 
+
+ThunderBolt 4 can support speeds up to 40 gigabits per second
+
+## Lightning Cable
+Specific proprietary connector created by Apple for mobile devices
+![[Pasted image 20240820152102.png]]
+
+## Serial Advanced Technology Attachment (SATA)
+Standard method of connecting a storage device to a motherboard
+![[Pasted image 20240820152304.png]]
+![[Pasted image 20240820152337.png]]
+
+### Versions of SATA
+
+SATA revision 1 - support speeds of up to1500Mbps (1.5Gbps)
+SATA revision 2 - support speeds of up to 3000Mbps (3Gbps)
+SATA revision 3 - support speeds of up to 6000Mbps (6Gbps)
 
