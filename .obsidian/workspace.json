@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comptia A+/Core 1.md",
+                "file": "Francês/01-Alfabeto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comptia A+/Core 1.md",
+                "file": "Francês/01-Alfabeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comptia A+/Core 1.md",
+                "file": "Francês/01-Alfabeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comptia A+/Core 1.md"
+                "file": "Francês/01-Alfabeto.md"
               }
             }
           },
@@ -156,6 +156,10 @@
   },
   "active": "0efadd2c3a444574",
   "lastOpenFiles": [
+    "Comptia A+/Core 2.md",
+    "Comptia A+/Core 1.md",
+    "Francês/01-Alfabeto.md",
+    "Francês/▸Índice.md",
     "Pasted image 20240820154310.png",
     "Pasted image 20240820154115.png",
     "Pasted image 20240820153731 1.png",
@@ -166,17 +170,12 @@
     "Pasted image 20240820153303.png",
     "Pasted image 20240820153035.png",
     "Pasted image 20240820152337.png",
-    "Pasted image 20240820152304.png",
     "Welcome.md",
-    "Comptia A+/Core 1.md",
-    "Comptia A+/Core 2.md",
     "Francês/8.2-Verbos do Segundo Grupo.md",
     "Francês/08-Verbos.md",
     "Francês/04-Artigos.md",
-    "Francês/01-Alfabeto.md",
     "Francês/02-Fonética e Pronúncia.md",
     "Comptia A+",
-    "Francês/▸Índice.md",
     "Francês/03-Estrutura da Frase.md",
     "Francês/8.1-Verbos do Primeiro Grupo.md",
     "Francês/8.3-Verbos do Terceiro Grupo.md",
